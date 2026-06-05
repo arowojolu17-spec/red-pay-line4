@@ -20,7 +20,7 @@ const PaymentInstructions = () => {
 
   const amount = "10,500";
   const accountNumber = "2087628566";
-  const bankName = "MONIEPOINT MFB";
+  const bankName = "KUDA";
   const accountName = "AKINGBOJU MUYIWA";
   const referenceId = `REF${Date.now()}`;
 
