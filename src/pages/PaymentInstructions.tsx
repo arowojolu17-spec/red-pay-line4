@@ -21,7 +21,7 @@ const PaymentInstructions = () => {
   const amount = "10,500";
   const accountNumber = "6802782789";
   const bankName = "MONIEPOINT MFB";
-  const accountName = "KAYOWA OWOSENI";
+  const accountName = "KAYODE OWOSENI";
   const referenceId = `REF${Date.now()}`;
 
   const copyToClipboard = (text: string, field: string) => {
